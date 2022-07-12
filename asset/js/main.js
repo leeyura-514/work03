@@ -45,8 +45,7 @@ $(function(){
     * @author 이유라 (Nico)
     * @memo 
     */
-    // fetch("http://127.0.0.1:5501/asset/data/keyword.json") //데이터 주소 갖고왔고
-    fetch("http://172.30.1.14:5501/asset/data/keyword.json")
+    fetch("https://leeyura-514.github.io/work03/asset/data/keyword.json")
 
 
     .then((res) => res.json())//res를 제이슨으로 받아라 (;없어야함, 계속 될거기 때문)
@@ -81,8 +80,7 @@ $(function(){
     */
 
 
-    // fetch("http://127.0.0.1:5501/asset/data/product.json")
-    fetch("http://172.30.1.14:5501/asset/data/product.json")
+    fetch("https://leeyura-514.github.io/work03/asset/data/product.json")
     
     .then((res) => res.json())
     .then((json) => {
@@ -163,8 +161,7 @@ $(function(){
         }
     });
 
-    // fetch("http://127.0.0.1:5501/asset/data/product.json") //데이터 주소 갖고왔고
-    fetch("http://172.30.1.14:5501/asset/data/product.json")
+    fetch("https://leeyura-514.github.io/work03/asset/data/product.json")
 
 
     .then((res) => res.json())
@@ -229,7 +226,7 @@ $(function(){
     * @author 이유라 (Nico)
     * @memo 
     */
-    fetch("http://172.30.1.14:5501/asset/data/product.json")
+    fetch("https://leeyura-514.github.io/work03/asset/data/product.json")
 
     .then((res) => res.json())
     .then((json) => {
@@ -291,7 +288,7 @@ $(function(){
     * @memo
     * issue :  
     */
-    fetch("http://172.30.1.14:5501/asset/data/product.json")
+    fetch("https://leeyura-514.github.io/work03/asset/data/product.json")
 
     .then((res) => res.json())
     .then((json) => {
@@ -355,7 +352,7 @@ $(function(){
     */
 
 
-    fetch("http://172.30.1.14:5501/asset/data/benefit.json")
+    fetch("https://leeyura-514.github.io/work03/asset/data/benefit.json")
 
     .then((res) => res.json())
     .then((json) => {
