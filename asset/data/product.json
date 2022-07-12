@@ -1,0 +1,535 @@
+{
+    "list":[
+        {
+            "id":1, 
+            "link":"제품링크",
+            "thumbImg01":"./asset/images/content/event01.png",
+            "thumbImg02":"./asset/images/content/event01-rotate.jpg",
+            "desc":{
+                "title":"[BIG GIFT] 그린티 씨드 세럼",
+                "desc":"수분 손실로 인한 손상*과 트러블을 케어해 속건조 없이 촉촉한 진정 피부로 가꾸어주는 수분 장벽 강화 세럼"
+            },
+            "keyword":{
+                "name01":"#그린티바이옴",
+                "name02":"#수분장벽",
+                "name03":"#수분진정",
+                "name04":"#붉은기",
+                "name05":"#트러블",
+                "name06":"#공병"
+            },
+            "price":[
+                {"priceCurrent":"18,000"},
+                {"priceOriginal":"20,000"},
+                {"priceDiscunt":"~49%"}
+            ],
+            "review":[
+                {"reviewGrade":4.9},
+                {"reviewCnt":"29,000"}
+
+            ]
+        },
+        {
+            "id":2, 
+            "link":"제품링크",
+            "thumbImg01":"./asset/images/content/event02.png",
+            "thumbImg02":"./asset/images/content/event02-rotate.jpg",
+            "desc":{
+                "title":"그린티 씨드 크림",
+                "desc":"수분 손실로 인한 손상*을 케어하고 피부에 밀착되어 촉촉한 진정 피부로 가꾸어 주는 수분 장벽 강화 크림"
+
+            },
+            "keyword":[
+                {"name":"#그린티바이옴"},
+                {"name":"#수분장벽"},
+                {"name":"#수분진정"},
+                {"name":"#붉은기"},
+                {"name":"#트러블"},
+                {"name":"#공병수거"}
+            ],
+            "price":[
+                {"priceCurrent":"16,250"},
+                {"priceOriginal":"25,000"},
+                {"priceDiscunt":"~35%"}
+            ],
+            "review":[
+                {"reviewGrade":4.9},
+                {"reviewCnt":"10,540"}
+
+            ]
+        },
+        {
+            "id":3, 
+            "link":"제품링크",
+            "thumbImg01":"./asset/images/content/event03.png",
+            "thumbImg02":"./asset/images/content/event03-rotate.jpg",
+            "desc":{
+                "title":"그린티 씨드 스킨",
+                "desc":"수분 손실로 인한 손상*을 케어하고 끈적임 없이 매끄럽고 촉촉한 진정 피부로 가꾸어 주는 수분 장벽 강화 스킨 (*세안, 외부 자극 등으로 인한 건조, 결, 당김, 거칠음, 푸석함)"
+            },
+            "keyword":[
+                {"name":"#수분장벽"},
+                {"name":"#수분진정"},
+                {"name":"#그린티바이옴"},
+                {"name":"#트러블"},
+                {"name":"#공병수거"}
+            ],
+            "price":[
+                {"priceCurrent":"13,650"},
+                {"priceOriginal":"21,000"},
+                {"priceDiscunt":"~35%"}
+            ],
+            "review":[
+                {"reviewGrade":4.9},
+                {"reviewCnt":"162"}
+
+            ]
+        },
+        {
+            "id":4, 
+            "link":"제품링크",
+            "thumbImg01":"./asset/images/content/event04.png",
+            "thumbImg02":"./asset/images/content/event04-rotate.jpg",
+            "desc":{
+                "title":"그린티 씨드 에센스인로션",
+                "desc":"수분 손실로 인한 손상*을 케어하고 풍부한 수분감과 부드러운 영양감이 피부를 감싸주는 수분 장벽 강화 에센스인로션 (*세안, 외부 자극 등으로 인한 건조, 결, 당김, 거칠음, 푸석함)"
+            },
+            "keyword":[
+                {"name":"#수분장벽"},
+                {"name":"#수분진정"},
+                {"name":"#수분크림"},
+                {"name":"#그린티바이옴"},
+                {"name":"#공병수거"}
+            ],
+            "price":[
+                {"priceCurrent":"14,950"},
+                {"priceOriginal":"23,000"},
+                {"priceDiscunt":"~35%"}
+            ],
+            "review":[
+                {"reviewGrade":4.8},
+                {"reviewCnt":"208"}
+
+            ]
+        },
+        {
+            "id":5, 
+            "link":"제품링크",
+            "thumbImg01":"./asset/images/content/event05.png",
+            "thumbImg02":"./asset/images/content/event05-rotate.jpg",
+            "desc":{
+                "title":"레티놀 시카 흔적 앰플",
+                "desc":"레티놀과 시카 성분을 함유한 앰플이 진정 케어 뿐만 아니라 트러블의 시작부터 각질, 모공, 잡티의 흔적까지 케어하는 저자극 고효능 수분 앰플"
+            },
+            "keyword":[
+                {"name":"#트러블"},
+                {"name":"#흔적앰플"},
+                {"name":"#수분앰플"},
+                {"name":"#수분"},
+                {"name":"#레티놀앰플"},
+                {"name":"#공병수거"}
+            ],
+            "price":[
+                {"priceCurrent":"26,000"},
+                {"priceOriginal":"40,000"},
+                {"priceDiscunt":"~35%"}
+            ],
+            "review":[
+                {"reviewGrade":4.8},
+                {"reviewCnt":"23,527"}
+
+            ]
+        },
+        {
+            "id":6, 
+            "link":"제품링크",
+            "thumbImg01":"./asset/images/content/event06.jpg",
+            "thumbImg02":"./asset/images/content/event06-rotate.jpg",
+            "desc":{
+
+                "title":"레티놀 시카 흔적 앰플",
+                "desc":"레티놀과 시카 성분을 함유한 앰플이 진정 케어 뿐만 아니라 트러블의 시작부터 각질, 모공, 잡티의 흔적까지 케어하는 저자극 고효능 수분 앰플"
+            },
+            "keyword":[
+                {"name":"#트러블"},
+                {"name":"#흔적앰플"},
+                {"name":"#수분앰플"},
+                {"name":"#수분"},
+                {"name":"#레티놀앰플"},
+                {"name":"#공병수거"}
+            ],
+            "price":[
+                {"priceCurrent":"26,000"},
+                {"priceOriginal":"40,000"},
+                {"priceDiscunt":"~35%"}
+            ],
+            "review":[
+                {"reviewGrade":4.8},
+                {"reviewCnt":"23,527"}
+
+            ]
+        },
+        {
+            "id":7, 
+            "link":"제품링크",
+            "thumbImg01":"./asset/images/content/event06.jpg",
+            "thumbImg02":"./asset/images/content/event06-rotate.jpg",
+            "desc":{
+                "title":"레티놀 시카 흔적 앰플",
+                "desc":"레티놀과 시카 성분을 함유한 앰플이 진정 케어 뿐만 아니라 트러블의 시작부터 각질, 모공, 잡티의 흔적까지 케어하는 저자극 고효능 수분 앰플"
+            },
+            "keyword":[
+                {"name":"#트러블"},
+                {"name":"#흔적앰플"},
+                {"name":"#수분앰플"},
+                {"name":"#수분"},
+                {"name":"#레티놀앰플"},
+                {"name":"#공병수거"}
+            ],
+            "price":[
+                {"priceCurrent":"26,000"},
+                {"priceOriginal":"40,000"},
+                {"priceDiscunt":"~35%"}
+            ],
+            "review":[
+                {"reviewGrade":4.8},
+                {"reviewCnt":"23,527"}
+
+            ]
+        },
+        {
+            "id":8, 
+            "link":"제품링크",
+            "thumbImg01":"./asset/images/content/event06.jpg",
+            "thumbImg02":"./asset/images/content/event06-rotate.jpg",
+            "desc":{
+                "title":"레티놀 시카 흔적 앰플",
+                "desc":"레티놀과 시카 성분을 함유한 앰플이 진정 케어 뿐만 아니라 트러블의 시작부터 각질, 모공, 잡티의 흔적까지 케어하는 저자극 고효능 수분 앰플"
+            },
+            "keyword":[
+                {"name":"#트러블"},
+                {"name":"#흔적앰플"},
+                {"name":"#수분앰플"},
+                {"name":"#수분"},
+                {"name":"#레티놀앰플"},
+                {"name":"#공병수거"}
+            ],
+            "price":[
+                {"priceCurrent":"26,000"},
+                {"priceOriginal":"40,000"},
+                {"priceDiscunt":"~35%"}
+            ],
+            "review":[
+                {"reviewGrade":4.8},
+                {"reviewCnt":"23,527"}
+
+            ]
+        }
+        
+        
+    ],
+
+    "bestList":[
+        {
+            "id":1, 
+            "link":"제품링크",
+            "thumbImg01":"./asset/images/content/best01.jpg",
+            "badge":"01",
+            "desc":[
+                {"title":"애플씨드 클렌징 오일"},
+                {"desc":"사과씨 오일을 함유해 진한 메이크업부터 모공 속 노폐물은 꽉 잡아당기고 수분은 채워주는 당김 없이 산뜻한 클렌징 오일"}
+            ],
+            "keyword":[
+                {"name":"#쟁여템모음"},
+                {"name":"#공병수거"}
+            ],
+            "price":[
+                {"priceCurrent":"8,000"},
+                {"priceOriginal":"16,000"},
+                {"priceDiscunt":"~50%"}
+            ]
+        },
+        {
+            "id":2, 
+            "link":"제품링크",
+            "thumbImg01":"./asset/images/content/best02.png",
+            "badge":"02",
+            "desc":[
+                {"title":"블랙티 유스 인핸싱 앰플 [대용량]"},
+                {"desc":"쓸수록 확실한 자신감! 5대 피부 노화 징후를 케어하는 항산화 안티에이징 앰플 대용량 / 50mL"}
+            ],
+            "keyword":[
+                {"name":"#공병수거"},
+                {"name":"#항산화앰플"},
+                {"name":"#블랙티앰플"},
+                {"name":"#안티에이징"},
+                {"name":"#피부홈케어"}
+            ],
+            "price":[
+                {"priceCurrent":"34,450"},
+                {"priceOriginal":"53,000"},
+                {"priceDiscunt":"~35%"}
+            ]
+        },
+        {
+            "id":3, 
+            "link":"제품링크",
+            "thumbImg01":"./asset/images/content/best01.jpg",
+            "badge":"03",
+            "desc":[
+                {"title":"애플씨드 클렌징 오일"},
+                {"desc":"사과씨 오일을 함유해 진한 메이크업부터 모공 속 노폐물은 꽉 잡아당기고 수분은 채워주는 당김 없이 산뜻한 클렌징 오일"}
+            ],
+            "keyword":[
+                {"name":"#쟁여템모음"},
+                {"name":"#공병수거"}
+            ],
+            "price":[
+                {"priceCurrent":"8,000"},
+                {"priceOriginal":"16,000"},
+                {"priceDiscunt":"~50%"}
+            ]
+        },
+        {
+            "id":4, 
+            "link":"제품링크",
+            "thumbImg01":"./asset/images/content/best02.png",
+            "badge":"04",
+            "desc":[
+                {"title":"블랙티 유스 인핸싱 앰플 [대용량]"},
+                {"desc":"쓸수록 확실한 자신감! 5대 피부 노화 징후를 케어하는 항산화 안티에이징 앰플 대용량 / 50mL"}
+            ],
+            "keyword":[
+                {"name":"#공병수거"},
+                {"name":"#항산화앰플"},
+                {"name":"#블랙티앰플"},
+                {"name":"#안티에이징"},
+                {"name":"#피부홈케어"}
+            ],
+            "price":[
+                {"priceCurrent":"34,450"},
+                {"priceOriginal":"53,000"},
+                {"priceDiscunt":"~35%"}
+            ]
+        }
+
+    ],
+    
+    "newList":[
+        {
+            "id":1, 
+            "link":"제품링크",
+            "thumbImg01":"../asset/images/content/new01.jpg",
+            "badge":"NEW",
+            "desc":[
+                {"title":"여름 베이스 절대 지켜! 모이스처 실크 베이스"},
+                {"desc":"필터 쓴 듯 결점없는 피부 표현은 기본 한 여름에도 무너지지 않는 베이스 박제!"}
+            ]
+           
+        },
+        {
+            "id":2, 
+            "link":"제품링크",
+            "thumbImg01":"../asset/images/content/new02.jpg",
+            "badge":"NEW",
+            "desc":[
+                {"title":"화산송이 모공 바하 클렌징 폼(feat.BHA)"},
+                {"desc":"베스트셀러로 갓생살던 화산송이 모공폼 화산송이철을 맞아 더 강력해져 돌아왔습니다! "}
+            ]
+           
+        },
+        {
+            "id":3, 
+            "link":"제품링크",
+            "thumbImg01":"../asset/images/content/new03.jpg",
+            "badge":"NEW",
+            "desc":[
+                {"title":"눈가 케어도 이니스럽게"},
+                {"desc":"얇고 건조한 눈가 피부에 끈적임없이 수분감과 건강한 생기만 남겨드려요!"}
+            ]
+           
+        },
+        {
+            "id":4, 
+            "link":"제품링크",
+            "thumbImg01":"../asset/images/content/new04.jpg",
+            "badge":"NEW",
+            "desc":[
+                {"title":"#단종금지템 이라 리뉴얼했어요!"},
+                {"desc":"물처럼 가벼운 사용감과 강력한 세정력은 그대로 더 촉촉하게 리뉴얼해 돌아왔습니다 많관부!"}
+            ]
+           
+        },
+        {
+            "id":5, 
+            "link":"제품링크",
+            "thumbImg01":"../asset/images/content/new01.jpg",
+            "badge":"NEW",
+            "desc":[
+                {"title":"여름 베이스 절대 지켜! 모이스처 실크 베이스"},
+                {"desc":"필터 쓴 듯 결점없는 피부 표현은 기본 한 여름에도 무너지지 않는 베이스 박제!"}
+            ]
+           
+        },
+        {
+            "id":6, 
+            "link":"제품링크",
+            "thumbImg01":"../asset/images/content/new02.jpg",
+            "badge":"NEW",
+            "desc":[
+                {"title":"화산송이 모공 바하 클렌징 폼(feat.BHA)"},
+                {"desc":"베스트셀러로 갓생살던 화산송이 모공폼 화산송이철을 맞아 더 강력해져 돌아왔습니다! "}
+            ]
+           
+        },
+        {
+            "id":7, 
+            "link":"제품링크",
+            "thumbImg01":"../asset/images/content/new03.jpg",
+            "badge":"NEW",
+            "desc":[
+                {"title":"눈가 케어도 이니스럽게"},
+                {"desc":"얇고 건조한 눈가 피부에 끈적임없이 수분감과 건강한 생기만 남겨드려요!"}
+            ]
+           
+        }
+       
+
+    ],
+    
+    "reviewList":[
+        {
+            "id":1, 
+            "link":"제품링크",
+            "thumbImg01":"./asset/images/content/review01.jpg",
+            "desc":[
+                {"title":"트루 마일드 시카 무기자차 선크림 SPF50+ PA++++"},
+                {"desc":"피부가 예민한 편이라 알러지가 많이 나는데 샘플 써보고 구입함. 발림도 촉촉하고 순해서 들고 다니면서 바르기 좋음."}
+            ],
+            "keyword":[
+                {"name":"#무기자차"},
+                {"name":"#톤업선크림"},
+                {"name":"#저자극선크림"},
+                {"name":"#논나노선크림"},
+                {"name":"#수분진정선크림"},
+                {"name":"#공병수거"}
+            ],
+            "review":[
+                {"reviewGrade":4.9},
+                {"reviewCnt":"29,009"}
+
+            ]
+        },
+        {
+            "id":2, 
+            "link":"제품링크",
+            "thumbImg01":"./asset/images/content/review02.jpg",
+            "desc":[
+                {"title":"트루 마일드 시카 무기자차 선크림 SPF50+ PA++++"},
+                {"desc":"피부가 예민한 편이라 알러지가 많이 나는데 샘플 써보고 구입함. 발림도 촉촉하고 순해서 들고 다니면서 바르기 좋음."}
+            ],
+            "keyword":[
+                {"name":"#무기자차"},
+                {"name":"#톤업선크림"},
+                {"name":"#저자극선크림"},
+                {"name":"#논나노선크림"},
+                {"name":"#수분진정선크림"},
+                {"name":"#공병수거"}
+            ],
+            "review":[
+                {"reviewGrade":4.9},
+                {"reviewCnt":"29,009"}
+
+            ]
+        },
+        {
+            "id":3, 
+            "link":"제품링크",
+            "thumbImg01":"./asset/images/content/review01.jpg",
+            "desc":[
+                {"title":"트루 마일드 시카 무기자차 선크림 SPF50+ PA++++"},
+                {"desc":"피부가 예민한 편이라 알러지가 많이 나는데 샘플 써보고 구입함. 발림도 촉촉하고 순해서 들고 다니면서 바르기 좋음."}
+            ],
+            "keyword":[
+                {"name":"#무기자차"},
+                {"name":"#톤업선크림"},
+                {"name":"#저자극선크림"},
+                {"name":"#논나노선크림"},
+                {"name":"#수분진정선크림"},
+                {"name":"#공병수거"}
+            ],
+            "review":[
+                {"reviewGrade":4.9},
+                {"reviewCnt":"29,009"}
+
+            ]
+        },
+        {
+            "id":4, 
+            "link":"제품링크",
+            "thumbImg01":"./asset/images/content/review01.jpg",
+            "desc":[
+                {"title":"트루 마일드 시카 무기자차 선크림 SPF50+ PA++++"},
+                {"desc":"피부가 예민한 편이라 알러지가 많이 나는데 샘플 써보고 구입함. 발림도 촉촉하고 순해서 들고 다니면서 바르기 좋음."}
+            ],
+            "keyword":[
+                {"name":"#무기자차"},
+                {"name":"#톤업선크림"},
+                {"name":"#저자극선크림"},
+                {"name":"#논나노선크림"},
+                {"name":"#수분진정선크림"},
+                {"name":"#공병수거"}
+            ],
+            "review":[
+                {"reviewGrade":4.9},
+                {"reviewCnt":"29,009"}
+
+            ]
+        },
+        {
+            "id":5, 
+            "link":"제품링크",
+            "thumbImg01":"./asset/images/content/review02.jpg",
+            "desc":[
+                {"title":"트루 마일드 시카 무기자차 선크림 SPF50+ PA++++"},
+                {"desc":"피부가 예민한 편이라 알러지가 많이 나는데 샘플 써보고 구입함. 발림도 촉촉하고 순해서 들고 다니면서 바르기 좋음."}
+            ],
+            "keyword":[
+                {"name":"#무기자차"},
+                {"name":"#톤업선크림"},
+                {"name":"#저자극선크림"},
+                {"name":"#논나노선크림"},
+                {"name":"#수분진정선크림"},
+                {"name":"#공병수거"}
+            ],
+            "review":[
+                {"reviewGrade":4.9},
+                {"reviewCnt":"29,009"}
+
+            ]
+        },
+        {
+            "id":6, 
+            "link":"제품링크",
+            "thumbImg01":"./asset/images/content/review01.jpg",
+            "desc":[
+                {"title":"트루 마일드 시카 무기자차 선크림 SPF50+ PA++++"},
+                {"desc":"피부가 예민한 편이라 알러지가 많이 나는데 샘플 써보고 구입함. 발림도 촉촉하고 순해서 들고 다니면서 바르기 좋음."}
+            ],
+            "keyword":[
+                {"name":"#무기자차"},
+                {"name":"#톤업선크림"},
+                {"name":"#저자극선크림"},
+                {"name":"#논나노선크림"},
+                {"name":"#수분진정선크림"},
+                {"name":"#공병수거"}
+            ],
+            "review":[
+                {"reviewGrade":4.9},
+                {"reviewCnt":"29,009"}
+
+            ]
+        }
+        
+
+    ]
+}

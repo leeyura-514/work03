@@ -1,0 +1,59 @@
+{
+    "benefitList":[
+        {
+            "id":1, 
+            "link":"혜택링크",
+            "thumbImg01":"./asset/images/icon/bft01.png",
+            "desc":[
+                {"title":"멤버십데이 혜택"},
+                {"desc":"최대 30% 할인"}
+            ]
+        },
+        {
+            "id":2, 
+            "link":"혜택링크",
+            "thumbImg01":"./asset/images/icon/bft02.png",
+            "desc":[
+                {"title":"시크릿쿠폰"},
+                {"desc":"월1회 할인쿠폰제공"}
+            ]
+        },
+        {
+            "id":3, 
+            "link":"혜택링크",
+            "thumbImg01":"./asset/images/icon/bft03.png",
+            "desc":[
+                {"title":"구매 적립"},
+                {"desc":"구매 금액 1% 적립"}
+            ]
+        },
+        {
+            "id":4, 
+            "link":"혜택링크",
+            "thumbImg01":"./asset/images/icon/bft04.png",
+            "desc":[
+                {"title":"생일 혜택"},
+                {"desc":"40% 할인 쿠폰 지급"}
+            ]
+        },
+        {
+            "id":5, 
+            "link":"혜택링크",
+            "thumbImg01":"./asset/images/icon/bft05.png",
+            "desc":[
+                {"title":"우수회원키트제공"},
+                {"desc":"연2회"}
+            ]
+        },
+        {
+            "id":6, 
+            "link":"혜택링크",
+            "thumbImg01":"./asset/images/icon/bft06.png",
+            "desc":[
+                {"title":"MY SHOP 혜택"},
+                {"desc":"제품할인 및 쿠폰 지급"}
+            ]
+        }
+
+    ]
+}

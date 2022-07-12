@@ -1,0 +1,75 @@
+// common
+@font-face {
+    font-family: 'SDNeoM';
+    src: url(../fonts/SDGtNeobUni-bLt6.woff2) format('woff2');
+    font-weight: 400;
+}
+@font-face {
+    font-family: 'SDNeoL';
+    src: url(../fonts/SDGtNeobUni-bLt8.woff2) format('woff2');
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: 'notoR';
+    src: url(../fonts/NotoSansKR-Regular.subset.woff2) format('woff2');
+}
+@font-face {
+    font-family: 'roboR';
+    src: url(../fonts/Roboto-Regular.woff2) format('woff2');
+    // font-weight: 400;
+}
+@font-face {
+    font-family: 'roboM';
+    src: url(../fonts/Roboto-Medium.woff2) format('woff2');
+    // font-weight: 500;
+}
+@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static/pretendard.css');
+
+body{
+    font-family: 'SDNeoL', 'roboR', 'roboM', Pretendard, 'notoR', 'Malgun Gothic', '맑은 고딕', '돋움', serif;
+    color: #777;
+    font-size: 16px;
+    letter-spacing: -.06em;
+}
+
+.blind{
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    overflow: hidden;
+    clip: rect(0 0 0 0);
+    margin: -1px;
+}
+
+.inner{
+    min-width: 1024px;
+    max-width: 1280px;
+    margin: 0 auto;
+}
+
+// sp-bg01
+.sc-benefit .bft-item.sale::before,
+.sc-benefit .bft-item.coupon::before,
+.sc-benefit .bft-item.plus::before,
+.sc-benefit .bft-item.birthday::before,
+.sc-benefit .bft-item.vip::before,
+.sc-benefit .bft-item.shop::before{
+    background: url(../images/icon/sp-bg01.png);
+    background-size: 516px auto;
+    background-repeat: no-repeat;
+}
+
+// sp-bg02
+.footer-area .sns-box .sns.youtube::after,
+.footer-area .sns-box .sns.insta::after,
+.footer-area .sns-box .sns.facebook::after,
+.footer-area .sns-box .sns.twitter::after,
+.footer-area .sns-box .sns.app::after{
+    background: url(../images/icon/sp-bg02.png);
+    background-size: 135px auto;
+    background-repeat: no-repeat;
+
+}
+
+
