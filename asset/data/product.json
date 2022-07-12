@@ -318,7 +318,7 @@
         {
             "id":1, 
             "link":"제품링크",
-            "thumbImg01":"../asset/images/content/new01.jpg",
+            "thumbImg01":"./asset/images/content/new01.jpg",
             "badge":"NEW",
             "desc":[
                 {"title":"여름 베이스 절대 지켜! 모이스처 실크 베이스"},
@@ -329,7 +329,7 @@
         {
             "id":2, 
             "link":"제품링크",
-            "thumbImg01":"../asset/images/content/new02.jpg",
+            "thumbImg01":"./asset/images/content/new02.jpg",
             "badge":"NEW",
             "desc":[
                 {"title":"화산송이 모공 바하 클렌징 폼(feat.BHA)"},
@@ -340,7 +340,7 @@
         {
             "id":3, 
             "link":"제품링크",
-            "thumbImg01":"../asset/images/content/new03.jpg",
+            "thumbImg01":"./asset/images/content/new03.jpg",
             "badge":"NEW",
             "desc":[
                 {"title":"눈가 케어도 이니스럽게"},
@@ -351,7 +351,7 @@
         {
             "id":4, 
             "link":"제품링크",
-            "thumbImg01":"../asset/images/content/new04.jpg",
+            "thumbImg01":"./asset/images/content/new04.jpg",
             "badge":"NEW",
             "desc":[
                 {"title":"#단종금지템 이라 리뉴얼했어요!"},
@@ -362,7 +362,7 @@
         {
             "id":5, 
             "link":"제품링크",
-            "thumbImg01":"../asset/images/content/new01.jpg",
+            "thumbImg01":"./asset/images/content/new01.jpg",
             "badge":"NEW",
             "desc":[
                 {"title":"여름 베이스 절대 지켜! 모이스처 실크 베이스"},
@@ -373,7 +373,7 @@
         {
             "id":6, 
             "link":"제품링크",
-            "thumbImg01":"../asset/images/content/new02.jpg",
+            "thumbImg01":"./asset/images/content/new02.jpg",
             "badge":"NEW",
             "desc":[
                 {"title":"화산송이 모공 바하 클렌징 폼(feat.BHA)"},
@@ -384,7 +384,7 @@
         {
             "id":7, 
             "link":"제품링크",
-            "thumbImg01":"../asset/images/content/new03.jpg",
+            "thumbImg01":"./asset/images/content/new03.jpg",
             "badge":"NEW",
             "desc":[
                 {"title":"눈가 케어도 이니스럽게"},
